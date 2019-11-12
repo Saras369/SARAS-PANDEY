@@ -1,0 +1,19 @@
+#include<stdio.h>
+#include<conio.h>
+int main()
+{            clrscr();
+     int num1,num2;
+
+
+    scanf(" enter the any values:\n");
+     scanf("%d%d",&num1 ,&num2);
+
+switch(0)
+{
+case(1):("operation,+");
+}
+
+    getch();
+
+    return 0;
+    }
